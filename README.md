@@ -1,4 +1,4 @@
-![Construct Firebase](https://construct--database.web.app/img/logo.png)
+![Construct Firebase](https://sparshadhar.github.io/ConstructFirebase/img/logo.png)
 
 # Construct Firebase
 Firebase Plugin Collection for Construct 3
