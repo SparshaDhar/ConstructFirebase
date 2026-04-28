@@ -6,9 +6,9 @@ Firebase Plugin Collection for Construct 3
 (Formerly sold as Construct Database)
 
 <br>
+
 |[Download](https://github.com/SparshaDhar/ConstructFirebase/archive/refs/heads/main.zip)|[Documentation](https://sparshadhar.github.io/ConstructFirebase/)|[Discord Community](https://discord.gg/9FG9M224K3)|
 |---|---|---|
-
 
 <br>
 
